@@ -1,0 +1,30 @@
+#mainWrapper {
+	background:#666;
+	width:960px;
+	margin:auto;
+	overflow:hidden;
+	
+}
+
+#bambuser {
+	width:480px;
+	display:block;
+	background:#000;
+	margin:auto;
+	overflow:hidden;
+	color:#FFF;
+}
+
+#hitIt {
+	width:480px;	
+	margin:auto;	
+  height:70px;
+}
+
+#hitIt a{
+	valign:center;
+	background:#FFF;
+	color:#000;
+	overflow:hidden;
+	width:100%;
+}
